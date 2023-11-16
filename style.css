@@ -1,0 +1,135 @@
+@font-face {
+    font-family: "Anonymous Pro";
+    src: url(fonts/AnonymousPro-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+  font-family: "Anonymous Pro";
+  src: url(fonts/AnonymousPro-Regular.ttf);
+}
+
+h1 {
+    font-family: "Anonymous Pro", sans-serif;
+    font-size: 56px;
+}
+
+h2 {
+  font-family: "Anonymous Pro", sans-serif;
+	font-size: 48px;
+}
+
+.container {
+  background-color: #f1f1f1;
+	display: inline-block;
+	margin: 50px;
+  gap: 15px;
+}
+
+h3 {
+  font-family: "Anonymous Pro", sans-serif;
+	font-size: 26px;
+}
+
+p {
+  font-family: "Anonymous Pro", sans-serif;
+  font-size: 14px;
+}
+
+img {
+  border-radius: 10px;
+  height: 231px;
+	width: 370px;
+}
+header{
+  background-color: #f1f1f1;
+  width: 1440px;
+height: 110px;
+}
+body
+{
+  background-color: #f1f1f1;
+}
+ul {
+  margin: 0;
+  padding: 20px;
+
+  justify-content: right;
+  display: flex;
+  list-style: none;
+}
+a {
+  color: black;
+  padding: 20px;
+  text-decoration: none;
+}
+footer
+{ 
+  color: white;
+  background-color: #121723;
+}
+.container__ber
+{
+  color: #A1A6B4;
+  display: flex;
+  justify-content: center;
+}
+.container__кап
+{
+  background-color: white;
+  color: #121723;
+}
+.logo2
+{
+  justify-content: space-between;
+  display: flex;
+  width: 299.65px;
+  height: 22.32px;
+}
+.c2
+{
+  color: white;
+}
+.c3
+{
+  width: 212.34px;
+  height: 63.24px;
+  top: 30.18px;
+  left: 142.54px;
+}
+.c4
+{
+  size: 48px;
+  line-height: 48px;
+}
+.container__title
+{
+  background-color: white;
+}
+.коллекция
+{
+  justify-content: space-between;
+  display: flex;
+}
+img.logo2
+{
+display: flex;
+justify-content: center;
+}
+hr.line
+{
+  width: 1300px;
+
+}
+.main-container {
+  max-width: 1161px;
+  margin: 0 auto;
+}
+
+.card-container {
+width: 100%;
+
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+}
